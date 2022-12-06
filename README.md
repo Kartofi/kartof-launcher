@@ -1,5 +1,5 @@
 # kartof-lancher
-A minecraft Lanchuer that replaces TLauncher
+A minecraft launcher that replaces TLauncher
 
 
 # Still In Development
