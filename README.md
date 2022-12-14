@@ -1,5 +1,5 @@
 # kartof-lancher
-A minecraft launcher that replaces TLauncher
+A minecraft launcher
 
 
 # Still In Development
@@ -7,5 +7,6 @@ A minecraft launcher that replaces TLauncher
 
 # To do
 1. Make Good Ui.
-2. Finish it.
-3. Make it public.
+2.Fix launch 
+3.Finish it.
+4.Make it public.
