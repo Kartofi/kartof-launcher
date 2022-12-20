@@ -1,5 +1,5 @@
 # kartof-lancher
-A minecraft launcher
+A minecraft minecraft launcher
 
 
 # 🟠 Still In Development
