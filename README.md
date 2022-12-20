@@ -6,7 +6,7 @@ A minecraft launcher
 
 
 # To do
-1. <input type="checkbox">Make Good Ui.
-2.Fix launch 
-3.Finish it.
-4.Make it public.
+- [x] Make Good Ui.
+- [x] Fix launch 
+- [ ] Finish it.
+- [ ]Make it public.
