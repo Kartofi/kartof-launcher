@@ -9,4 +9,4 @@ A minecraft launcher
 - [x] Make Good Ui.
 - [x] Fix launch 
 - [ ] Finish it.
-- [ ]Make it public.
+- [ ] Make it public.
